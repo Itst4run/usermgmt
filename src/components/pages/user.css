@@ -1,0 +1,29 @@
+.user{
+    flex: 4;
+    padding: 20px;
+}
+.userTitleContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.userAddButton{
+    width: 80px;
+    border: none;
+    padding: 5px 10px;
+    background-color: teal;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+.userContainer{
+    display: flex;
+}
+.userShow{
+    flex: 1;
+    padding: 20px;
+}
+.userupdate{
+    flex: 2;
+    padding: 20px;
+}

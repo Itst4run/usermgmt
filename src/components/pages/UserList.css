@@ -1,0 +1,21 @@
+.userlist{
+    width: 62%;
+    height: 600px;
+    flex: 4;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.userListedit{
+border: none;
+border-radius: 5px;
+padding:5px 10px;
+margin: 10px;
+background-color: rgb(236, 182, 45);
+color: white;
+font-size: medium;
+cursor: pointer;
+}
+.deletebtn{
+    cursor: pointer;
+}
